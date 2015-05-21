@@ -1,2 +1,2 @@
-# Angular_One
-Angular First App
+# Angular_OneQ_Community
+AngularJS Qro Community
